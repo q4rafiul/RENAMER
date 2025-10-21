@@ -1,5 +1,5 @@
 # RENΔMER 💀  
-**“Every name tells a story, so let’s kill it.”**  
+**“Every name tells a story, let’s kill it.”**
 
 A clean, no-nonsense renaming tool for Blender. Rename objects, bones, shape keys, materials, vertex groups, UV maps — fast, safe, and fun.  
 
