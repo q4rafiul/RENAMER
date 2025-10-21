@@ -1,3 +1,6 @@
+![preview2](https://github.com/user-attachments/assets/752d0fef-49ab-4844-87fd-75627d1257d4)
+
+
 # RENΔMER 💀  
 **“Every name tells a story, let’s kill it.”**
 
@@ -15,17 +18,12 @@ A clean, no-nonsense renaming tool for Blender. Rename objects, bones, shape key
 ---
 
 ### 🧩 Installation  
-1. Download the `.zip` from [Releases](#) or [Gumroad](#).  
+1. Download the `.zip` from [Releases](https://github.com/q4rafiul/RENAMER/releases/latest) or [Gumroad](https://q4rafiul.gumroad.com/l/renamer).
 2. In Blender → `Edit` → `Preferences` → `Add-ons` → `Install`  
 3. Select the zip file and enable **RENΔMER**.  
 4. Find it under the **View3D Sidebar (N-panel)** → **RENΔMER** tab.
 
- Simple see, I have told you
-
----
-
-### 🎬 Demo  
-[YouTube demo link here]  
+ Simple see, I have told you 
 
 ---
 
