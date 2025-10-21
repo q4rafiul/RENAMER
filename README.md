@@ -36,7 +36,7 @@ It handles the boring stuff, so you can focus on naming things like a naming nin
 
 ### ❤️ License & Donations
 Open-source (GPL-3).
-If RENΔMER saves you from losing your mind over awkward names, consider tossing a coin on [Gumroad](#). 
+If RENΔMER saves you from losing your mind over awkward names, consider tossing a coin on [Gumroad](https://q4rafiul.gumroad.com/l/renamer). 
 Every donation fuels our tiny digital evil lab. 🧪🎃
 
 ---
